@@ -1,0 +1,87 @@
+#fundo{
+  position: absolute;
+  width: 100%;
+  height: 200%;
+  top: 0%;
+  left: 0%;
+  background-color: #F5F8FA;
+}
+#menu{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 7%;
+  background-color: #3097D1;
+}
+#inf_Perfil1{
+  position:absolute;
+  width: 20%;
+  height: 18%;
+  top: 10%;
+  left: 3%;
+  background-color: #50686E;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#inf_Perfil2{
+  position:absolute;
+  width: 20%;
+  height: 36%;
+  top: 28%;
+  left: 3%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#sobre{
+  position: absolute;
+  width: 20%;
+  height: 36%;
+  top: 70%;
+  left: 3%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#fotos{
+  position: absolute;
+  left: 3%;
+  top: 113%;
+  width: 20%;
+  height: 36%;
+  background-color:white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#mensagem{
+  position: absolute;
+  top: 10%;
+  left: 27%;
+  width: 45%;
+  height: 9%;
+  background-color:white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#timeline{
+  position: absolute;
+  top: 20%;
+  left: 27%;
+  width: 45%;
+  height: 120%;
+  background-color:white;
+  border-style: solid;
+  border-top: hidden;
+  border-color: #DFDFDF;
+}
+#noticias{
+  position: absolute;
+  top: 10%;
+  left: 76%;
+  width: 20%;
+  height: 80%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
