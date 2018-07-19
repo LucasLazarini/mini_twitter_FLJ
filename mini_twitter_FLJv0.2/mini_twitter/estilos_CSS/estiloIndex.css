@@ -1,0 +1,48 @@
+#fundo{
+  background-color: #343A40;
+}
+
+a.fill-div1{
+  position:absolute;
+  left: 10%;
+  top: 30%;
+  width: 30%;
+  height: 20%;
+  background-color: #3097D1;
+  text-align: right;
+  text-decoration: none;
+  font-family: verdana;
+  font-size: 30px;
+  padding-top: 6%;
+  padding-right: 4%;
+  color: white;
+}
+
+a.fill-div2{
+  position:absolute;
+  left: 55%;
+  top: 30%;
+  width: 30%;
+  height: 20%;
+  background-color: #707070;
+  text-align: right;
+  text-decoration: none;
+  font-family: verdana;
+  font-size: 30px;
+  padding-top: 6%;
+  padding-right: 5%;
+  color: white;
+}
+
+#user{
+  position: absolute;
+  left: 15%;;
+  top: 20%;
+  width:
+
+}
+#pencil{
+  position: absolute;
+  left: 10%;;
+  top: 20%;
+}
