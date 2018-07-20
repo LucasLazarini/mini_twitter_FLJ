@@ -1,0 +1,83 @@
+#fundoPagina{
+  background-color: #343A40;
+}
+#areaRecuperacao{
+  position: absolute;
+  left: 35%;
+  top: 27.5%;
+  width: 30%;
+  height: 45%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#informativo1{
+  position: absolute;
+  font-size: 35px;
+  left: 25%;
+  font-family: calibri;
+  color: black;
+}
+#informativo2{
+  position: absolute;
+  top: 22%;
+  font-size: 20px;
+  left: 10%;
+  font-family: calibri;
+  color: black;
+}
+#faixa{
+  position: absolute;
+  background-color: #3097D1;
+  left: 10%;
+  width: 80%;
+  top: 50%;
+  height: 1px;
+}
+#emailRec{
+  background-color:  #F5F8FA;
+  position:absolute;
+  left: 10%;
+  top: 60%;
+  width: 76%;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: black;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#botao_voltar{
+  position: absolute;
+  left: 10%;
+  top: 80%;
+  width: 20%;
+  height: 6%;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-family: verdana;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+#botao_enviar{
+  position: absolute;
+  left: 70%;
+  top: 80%;
+  width: 20%;
+  height: 6%;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-family: verdana;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
