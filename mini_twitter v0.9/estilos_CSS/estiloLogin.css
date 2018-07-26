@@ -1,0 +1,105 @@
+#fundoPagina{
+  background-color: #343A40;
+}
+#areaLogin{
+  position: absolute;
+  left: 35%;
+  top: 25%;
+  width: 30%;
+  height: 50%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+  border-radius: 2%;
+  text-align: center;
+}
+#tituloLogin{
+  position: absolute;
+  top: 1%;
+  left: 43%;
+  color: black;
+  font-family:sans-serif;
+  font-size: 30px;
+}
+#areaUsername{
+  position: absolute;
+  left: 10%;
+  top: 20%;
+  width: 75%;
+  background-color:#F5F8FA;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#areaSenha{
+  position: absolute;
+  left: 10%;
+  top: 40%;
+  width: 75%;
+  background-color:#F5F8FA;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+a.fill-div1{
+  position: absolute;
+  top: 60%;
+  width: 25%;
+  height: 8%;
+  left: 65%;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: verdana;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  border-radius: 3%;
+}
+a.fill-div2{
+  position: absolute;
+  top: 60%;
+  width: 25%;
+  height: 8%;
+  left: 10%;
+  background-color: #343A40;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: verdana;
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  border-radius: 3%;
+}
+#areaCheck {
+  position: absolute;
+  left: 65%;
+  top: 85%;
+  font-family: calibri;
+  color: black;
+}
+#caixinhaSelecao{
+  position: absolute;
+  top: 85%;
+  left: 87%
+}
+.checkLembrar{
+  position: absolute;
+  top: 85%;
+  left: 87%
+
+}

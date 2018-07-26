@@ -1,0 +1,87 @@
+#fundo{
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  background-color: #202020;
+}
+#menuLateral{
+  position: absolute;
+  width: 25%;
+  height: 70%;
+  top: 7%;
+  left: 15%;
+  background-color: #2A2A2A;
+}
+#timeLine{
+  position: absolute;
+  width: 55%;
+  height: 70%;
+  top: 7%;
+  left: 30%;
+  background-color: white;
+  border-radius: 5px;
+}
+.menu{
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  height: 15%;
+  background-color: #202020;
+}
+#areaFoto{
+  position: absolute;
+  width: 100%;
+  height: 39%;
+  top: 0px;
+  left: 0px;
+  background-color:#202020;
+}
+#fotoUser{
+  position: absolute;
+  border-radius: 50%;
+  top: 30%;
+  left: 20%;
+}
+#menuInicio{
+  top: 40%;
+}
+#menuLogOut{
+  top: 55.5%;
+}
+#areaMensagem{
+  position: absolute;
+  width: 70%;
+  height: 20%;
+  background-color: #B2B2B2;
+  border-radius: 5px;
+}
+#mensagem{
+  position: absolute;
+  left: 10%;
+  top: 10%;
+  width: 70%;
+  outline: none;
+  resize: none;
+  border-radius: 5px;
+}
+a.fill-div{
+  position: absolute;
+  top: 16%;
+  width: 7%;
+  height: 1%;
+  left: 63%;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 0.5%;
+  padding-bottom: 1.5%;
+  font-family: arial;
+  font-size: 17px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10%;
+}
+#restante{
+  position: absolute;
+  top: 16%;
+}
