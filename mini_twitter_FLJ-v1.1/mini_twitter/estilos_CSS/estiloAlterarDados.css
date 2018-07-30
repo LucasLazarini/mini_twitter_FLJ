@@ -1,0 +1,122 @@
+#fundoPagina{
+  background-color: #343A40;
+}
+#areaReg{
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  width: 40%;
+  height: 70%;
+  background-color: white;
+  border-style: solid;
+  border-color: #DFDFDF;
+
+}
+#tituloReg{
+  position: absolute;
+  left: 38%;
+  top: 4%;
+  color: black;
+  font-family: verdana;
+}
+.inputReg{
+  background-color: #F5F8FA;
+  position: absolute;
+  left: 10%;
+  width: 70%;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: black;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#areaNome{
+  top: 15%;
+}
+#areaUsername{
+  top: 22%;
+}
+#areaSenha{
+  background-color: #F5F8FA;
+  position: absolute;
+  left: 10%;
+  top: 29%;
+  width: 38%;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: black;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#alterarSenha{
+  top: 29%;
+}
+#areaConfirmacao{
+  background-color: #F5F8FA;
+  position: absolute;
+  left: 50%;
+  top: 29%;
+  width: 30%;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: black;
+  border-style: solid;
+  border-color: #DFDFDF;
+}
+#areaEmail{
+  top: 36%;
+}
+#genero{
+  background-color: #F5F8FA;
+  position: absolute;
+  left: 50%;
+  top: 43%;
+  width: 31.5%;
+  font-family: verdana;
+  resize: none;
+  outline-style: none;
+  overflow: hidden;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: #818181;
+  border-color: #dfdfdf;
+}
+#cidade{
+  top: 43%;
+}
+#website{
+  top: 50.5%;
+}
+#uploadFoto{
+  top: 57%;
+}
+.botaoEnvioAlterar{
+  position: absolute;
+  left: 82%;
+  width: 8%;
+  height: 2%;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1.5%;
+  font-family: arial;
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+}
