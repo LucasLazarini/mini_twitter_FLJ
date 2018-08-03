@@ -1,0 +1,214 @@
+#fundo{
+  width: 100%;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  background-color: #202020;
+}
+#menuLateral{
+  position: absolute;
+  width: 15%;
+  height: 70%;
+  top: 8%;
+  left: 14%;
+  background-color: #2A2A2A;
+  border-radius: 1%;
+}
+#timeLine{
+  position: absolute;
+  width: 40%;
+  height: 20%;
+  top: 8%;
+  left: 30%;
+  background-color: white;
+  border-radius: 6px;
+}
+#recomendaSeguir{
+  position: absolute;
+  left: 71%;
+  top: 8%;
+  width: 15%;
+}
+#areaFoto{
+  position: absolute;
+  width: 100%;
+  height: 30%;
+  top: 0px;
+  left: 0px;
+  background-color:#2A2A2A;
+  border-radius: 2%;
+}
+#fotoUser{
+  position: absolute;
+  width: 130px;
+  max-height: 130px;
+  border-radius: 50%;
+  margin-top: 10%;
+  left: 30%;
+}
+.spanUser{
+  position: absolute;
+  font-family: arial;
+  color: white;
+  font-size: 15px;
+  margin-left: 5%;
+}
+#spanUsername{
+  top: 30%;
+}
+#spanNome{
+  top: 37%;
+}
+#spanCidade{
+  top: 43%;
+}
+#spanWebsite{
+  top: 50%;
+}
+.botoesMenu{
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  height: 15%;
+  background-color: #202020;
+  text-decoration: none;
+  text-align: center;
+  font-family: arial;
+  color: white;
+  border: none;
+}
+#opConta{
+  top: 65%;
+}
+#textConta{
+  font-family: verdana;
+  font-size: 20px;
+  background-color: #202020;
+  color: white;
+  margin-top: 15%;
+}
+#menuLogOut{
+  top: 81%;
+}
+#textLogOut{
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  margin-top: 15%;
+}
+#areaMensagem{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #2A2A2A;
+  border-radius: 4px;
+}
+#mensagem{
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  height: 50%;
+  width: 90%;
+  outline: none;
+  resize: none;
+  border-radius: 5px;
+  font-family: verdana;
+  font-size: 15px;
+}
+#botaoTwitt{
+  position:absolute;
+  top: 70%;
+  left: 80%;
+  width: 15%;
+  height: auto;
+  background-color: #3097D1;
+  text-align: center;
+  padding-top: 0.5%;
+  font-family: arial;
+  font-size: 17px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5%;
+}
+#restante{
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  color: white;
+  font-family: arial;
+  font-size: 15px;
+}
+#areaPostagem{
+  position: absolute;
+  width: 100%;
+  top: 100%;
+  background-color: white;
+  border-radius: 5px;
+}
+.postagem{
+  background-color: white;
+  border-bottom: 0.5px solid black;
+}
+#cabecalhoMensagem{
+  font-family: verdana;
+
+  height: 5%;
+  padding-bottom: 2%;
+}
+#textoMensagem{
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  font-family: verdana;
+}
+
+#areaSeguidor{
+  width: 100%;
+  text-align: center;
+  background-color: #2A2A2A;
+}
+#fotoUserSeguidor{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+#usernameSeguidor{
+  text-align: center;
+  color: white;
+  font-family: 15x;
+}
+#botaoSeguidor{
+  color: white;
+  font-family: arial;
+  padding-left: 1.5%;
+  padding-top: 1.5%;
+  padding-right: 1.5%;
+  padding-bottom: 1.5%;
+  background-color:  #3097D1;
+  border: none;
+  border-radius: 10%;
+}
+#fotoPost{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 1%;
+  margin-left: 2%;
+}
+#usernamePost{
+  margin-left: 2%;
+  padding-right: 60%;
+}
+#qntCurtidas{
+ margin-left: 80%;
+}
+#fotoPost{
+  border-radius: 50%;
+}
+#usernamePost{
+    padding-right: 50%;
+}
+#botaoLike{
+  margin-left: 80%;
