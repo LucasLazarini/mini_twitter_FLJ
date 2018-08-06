@@ -2,6 +2,5 @@
 <header id="header">
   <a href="index.php"><img src="../imagens/logoLivro.png" id="logo"></a>
   <a href="registro.php" id="botaoCadastrar"><b>Inscrever-se</b></a>
-  <div id="barrinha"></div>
   <a href="login.php" id="botaoLogin"><b>Entrar</b></a>
 </header>

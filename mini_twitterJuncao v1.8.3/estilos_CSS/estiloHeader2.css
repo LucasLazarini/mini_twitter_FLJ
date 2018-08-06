@@ -30,14 +30,7 @@
   font-size: 18px;
   color: #454545;
 }
-#barrinha{
-  position: absolute;
-  width: 2px;
-  height: 20%;
-  left: 77%;
-  top: 39%;
-  background-color: #454545;
-}
+
 #daily{
   position: absolute;
   left: 26%;

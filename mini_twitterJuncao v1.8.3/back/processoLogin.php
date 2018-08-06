@@ -1,6 +1,5 @@
 <?php
   session_start();
-
   require_once('conexao.php');
 
   $username = $_POST['username'];
@@ -10,7 +9,7 @@
   	return sha1( md5( $passwd ) );
   }
   $senha = hashPasswd($password);
-  $query = "select id, username, name, password, picture from users where username = '$username' ";
+  $query = "select id, username, name, password, picture, city, website from users where username = '$username' ";
   if ($result = $conn->query($query)) {
     if ($row = $result->fetch_object()){
        if (strcmp($row->password, $senha)==0){
@@ -18,10 +17,8 @@
           $_SESSION['name'] = $row->name;
           $_SESSION['id'] = $row->id;
           $_SESSION['foto'] = $row->picture;
-
-          if (empty($_SESSION['foto'])) {
-            $_SESSION['foto'] = "../imagens/hominho.png";
-          }
+          $_SESSION['cidade'] = $row->city;
+          $_SESSION['website'] = $row->website;
 
           if(isset($_POST['caixinha'])){
             $cookie_name = "username";
