@@ -1,0 +1,13 @@
+#fundo{
+  background-color: #343A40;
+
+}
+#tituloDaily{
+  position: absolute;
+  top: 40%;
+  font-family: verdana;
+  font-size: 180px;
+  color: white;
+  margin-left: 35%;
+
+}
