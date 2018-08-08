@@ -1,0 +1,12 @@
+.botaolike{
+  background: url('../imagens/like.png')  no-repeat;
+  width: 100px;  // coloca a largura do botao
+  height: 100px; // coloca a altura do botao
+  border: none;
+}
+.botaodislike{
+  background: url('../imagens/dislike.png')  no-repeat;
+  width: 20px;  // coloca a largura do botao
+  height: 20px; // coloca a altura do botao
+  border: none;
+}
